@@ -16,7 +16,7 @@ const mongoose = require('mongoose')
   app.set('view engine', 'handlebars');
  
   //Conexão com mongoDB
-const url = "mongodb+srv://desafio:8871@desafiotb.mqa6z.mongodb.net/produtos?retryWrites=true&w=majority"
+const url = "senha"
 
 const connectionParams={
     useNewUrlParser: true,
